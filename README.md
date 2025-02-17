@@ -27,7 +27,7 @@ Smart Tracking System – Algorithm-driven dynamic tilt adjustments.
 
 📂 Solar-Panel-Optimization
 │── 📜 README.md (Project Documentation)
-│── 📜 Hackathon Evaluation Report.docx (Hackathon Report)
+│── 📜 Hackathon Evaluation Report.pdf (Hackathon Report)
 │── 📜 OptimizingSolarPanelPlacement.mlx (Main MATLAB Code)
 │── 📜 nasa_solar_data.csv (Sample Solar Irradiance Data)
 
