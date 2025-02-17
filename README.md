@@ -27,8 +27,8 @@ Smart Tracking System – Algorithm-driven dynamic tilt adjustments.
 
 📂 Solar-Panel-Optimization
 │── 📜 README.md (Project Documentation)
-│── 📜 report.docx (Hackathon Report)
-│── 📜 solar_optimization.m (Main MATLAB Code)
+│── 📜 Hackathon Evaluation Report.docx (Hackathon Report)
+│── 📜 OptimizingSolarPanelPlacement.mlx (Main MATLAB Code)
 │── 📜 nasa_solar_data.csv (Sample Solar Irradiance Data)
 
 📌 Installation & Setup
@@ -39,7 +39,7 @@ git clone https://github.com/KushangShukla/Solar-Panel-Optimization.git
 
 2️⃣ Open MATLAB and navigate to the project folder.3️⃣ Run the MATLAB script:
 
-run('solar_optimization.m')
+run('OptimizingSolarPanelPlacement.mlx')
 
 📊 How It Works
 
